@@ -23,5 +23,6 @@
 
 
 -Add <a href="https://www.linkedin.com/in/noa-watel/"> Noa Watel</a> on LinkedIn
+![image title](https://rushter.com/counter.svg)
 
 
