@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noa Watel</h1>
 
-<h3 align="center">I'm a French student in the second year of computer science degree in software development and application.</h3>
+<h2 align="center">I'm a French student in the second year of computer science degree in software development and application.</h2>
 
 - 🔭 I’m currently working on **different kind of projects.**
 
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **noa.wtl@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 
@@ -19,7 +19,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noa-fish&show_icons=true&locale=en" alt="noa-fish" /></p>
 
-<h3 align="left">Follow me:</h3>
+<h2 align="left">Follow me:</h2>
 
 
 -Add <a href="https://www.linkedin.com/in/noa-watel/"> Noa Watel</a> on LinkedIn
