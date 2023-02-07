@@ -2,6 +2,8 @@
 
 <h3 align="center">I'm a French student in the second year of computer science degree in software development and application.</h3>
 
+![](https://komarev.com/ghpvc/?username=noa-fish&label=PROFILE+VIEWS)
+
 - 🔭 I’m currently working on **different kind of projects.**
 
 - 🌱 I’m currently learning **Node.js , Flutter & MongoDB.**
@@ -25,7 +27,6 @@
 -Add <a href="https://www.linkedin.com/in/noa-watel/"> Noa Watel</a> on LinkedIn
 
 
-<div align = center > <p>![](https://komarev.com/ghpvc/?username=noa-fish&label=PROFILE+VIEWS) </p></div>
 
 
 
