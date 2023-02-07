@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noa Watel</h1>
 
-<h2 align="center">I'm a French student in the second year of computer science degree in software development and application.</h2>
+<h3 align="center">I'm a French student in the second year of computer science degree in software development and application.</h3>
 
 - 🔭 I’m currently working on **different kind of projects.**
 
