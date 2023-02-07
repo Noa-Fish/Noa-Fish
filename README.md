@@ -23,7 +23,7 @@
 
 
 -Add <a href="https://www.linkedin.com/in/noa-watel/"> Noa Watel</a> on LinkedIn
-![](https://komarev.com/ghpvc/?Noa+Watel=noa-fish&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=noa-fish&label=PROFILE+VIEWS)
 
 
 
