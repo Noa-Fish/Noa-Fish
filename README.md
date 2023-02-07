@@ -25,7 +25,7 @@
 -Add <a href="https://www.linkedin.com/in/noa-watel/"> Noa Watel</a> on LinkedIn
 
 
-<div align = center >![](https://komarev.com/ghpvc/?username=noa-fish&label=PROFILE+VIEWS)</div>
+<div align = center > <p>![](https://komarev.com/ghpvc/?username=noa-fish&label=PROFILE+VIEWS) </p></div>
 
 
 
