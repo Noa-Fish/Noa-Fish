@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node.js , Flutter & MongoDB.**
 
-- 📫 How to reach me **noa.wtl@gmail.com**
+- 📫 Reach me at **noa.wtl@gmail.com**
 
 <h2 align="left">Languages and Tools:</h2>
 
