@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noa Watel</h1>
 
-<h3 align="center">I'm a French student in the second year of computer science degree in software development and application.</h3>
+<h3 align="center">I'm a French student in the third year of computer science degree in software development and application.</h3>
 
 ![](https://komarev.com/ghpvc/?username=noa-fish&label=PROFILE+VIEWS)
 
