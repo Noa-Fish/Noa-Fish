@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **different kind of projects.**
 
-- 🌱 I’m currently learning **Flutter.**
+- 🌱 I’m currently learning **ReactJs.**
 
 - 📫 Reach me at **noa.wtl@gmail.com**
 
