@@ -21,6 +21,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noa-fish&show_icons=true&locale=en" alt="noa-fish" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noa-fish&show_icons=true&locale=en&layout=compact" alt="noa-fish" /></p>
+
 <h2 align="left">Follow me:</h2>
 
 
