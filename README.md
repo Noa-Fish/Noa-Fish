@@ -31,12 +31,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noa-fish&show_icons=true&locale=en&layout=compact" alt="noa-fish" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noa-fish&show_icons=true&locale=en" alt="noa-fish" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noa-fish&show_icons=true&locale=en&layout=compact" alt="noa-fish" /></p>
+![Alt](https://repobeats.axiom.co/api/embed/f5c7f283b5891b7cda52011df131d3ced7618499.svg "Repobeats analytics image")
 
 <h2 align="left">Follow me:</h2>
 
